@@ -29,10 +29,8 @@ Credits
 Setup
 
 All of the code can be run from main.ipynb.
+
 Uncomment the "#%pip install -r requirements.txt" before running the code from the main notebook
+
 Uncomment the code to install YOLOv5:
 $ git clone https://github.com/ultralytics/yolov5...
-
-Uncomment the following if there are any issues running the YOLOv5 model:
-"#os.chdir("yolov5")
-#%pip install -r requirements.txt"
