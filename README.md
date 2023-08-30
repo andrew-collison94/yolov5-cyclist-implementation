@@ -18,7 +18,7 @@ Project Structure
 
 - yolov5
   --This folder contains the Ultralytics YOLOv5 code. I have made updates to the following:
-  --Updated `cyclists.yaml` to set relative paths to datasets.
+  --Updated 'cyclists.yaml' to set relative paths to datasets.
   --Additional hyperparameter .yaml files designed to experiment with incremental increases in iou_t to study architecture accuracy impact.
   --The remaining contents of this folder originate from Ultralytics and need to be cited accordingly.
 
