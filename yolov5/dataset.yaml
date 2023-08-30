@@ -1,0 +1,5 @@
+path: /users/adcy372/INM705/INM705 Coursework
+train: /users/adcy372/INM705/INM705 Coursework/train/images
+val: /users/adcy372/INM705/INM705 Coursework/val/images
+nc: 1
+names: ['cyclist']

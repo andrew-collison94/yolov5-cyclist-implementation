@@ -1,0 +1,11 @@
+# Configuration file for cyclist dataset.
+# The relative path below instructs  YOLOv5 to move up
+# two directories to access the data
+
+path: ../data/cyclist_data
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 1
+names: ["cyclist"]
